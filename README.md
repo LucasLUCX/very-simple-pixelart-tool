@@ -18,4 +18,5 @@ what color is selected can be seen in program name
 how to activate
 -------------------------------------------------------
 py -m pip install -U pygame --user
-the run the code
+
+run the code in Ide
